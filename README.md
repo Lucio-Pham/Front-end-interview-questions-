@@ -1,69 +1,69 @@
-Bản chất của Responsive là gì?
+1. Bản chất của Responsive là gì?
 
-Có mấy cách khai báo CSS?
+2. Có mấy cách khai báo CSS?
 
-Hãy nêu độ ưu tiên trong CSS?
+3. Hãy nêu độ ưu tiên trong CSS?
 
-Sass với Less giống và khác nhau ở điểm gì?
+4. Sass với Less giống và khác nhau ở điểm gì?
 
-Phân biệt tải Async, Defer và tải thông thường trong tải javascript.
+5. Phân biệt tải Async, Defer và tải thông thường trong tải javascript.
 
-Scope trong javascript là gì, có bao nhiêu loại?
+6. Scope trong javascript là gì, có bao nhiêu loại?
 
-Phân biệt ReactJS và Angular và khi nào nên dùng cái nào?
+7. Phân biệt ReactJS và Angular và khi nào nên dùng cái nào?
 
-Namespace trong javascript là gì?
+8. Namespace trong javascript là gì?
 
-Cloresure trong javascript là gì, cách dùng.
+9. Cloresure trong javascript là gì, cách dùng.
 
-Phân biệt call, apply, bind, cách dùng.
+10. Phân biệt call, apply, bind, cách dùng.
 
-Canvas và svg khác nhau ở điểm nào?
+11. Canvas và svg khác nhau ở điểm nào?
 
-Phân biệt Display với Visibility
+12. Phân biệt Display với Visibility
 
-Prototype trong javascript là gì, nào thì cần dùng?
+13. Prototype trong javascript là gì, nào thì cần dùng?
 
-Hãy nêu một số cách tối ưu khi dùng ReactJS
+14. Hãy nêu một số cách tối ưu khi dùng ReactJS
 
-Thuộc tính position trong css có bao nhiêu loại, phân biệt từng loại.
+15. Thuộc tính position trong css có bao nhiêu loại, phân biệt từng loại.
 
-Sử dụng animation trong css như thế nào?
+16. Sử dụng animation trong css như thế nào?
 
-Phân biệt LocalStorage và SessionStorage.
+17. Phân biệt LocalStorage và SessionStorage.
 
-Redux-saga là gì, ưu và nhược điểm.
+18. Redux-saga là gì, ưu và nhược điểm.
 
-Call stack, event queue, event loop trong javascript.
+19. Call stack, event queue, event loop trong javascript.
 
-Phân biệt callback, Promise, await async.
+20. Phân biệt callback, Promise, await async.
 
-Functional programming vs OOP.
+21. Functional programming vs OOP.
 
-Two way data binding là gì.
+22. Two way data binding là gì.
 
-Life cycle ReactJS.
+23. Life cycle ReactJS.
  
-Mutable vs immutable.
+24. Mutable vs immutable.
  
-Khi tổ chức dữ liệu dạng list trong redux thì nên lưu kiểu gì Array hay Object, tại sao?
+25. Khi tổ chức dữ liệu dạng list trong redux thì nên lưu kiểu gì Array hay Object, tại sao?
 
-console.log(3) Đoạn code sau in ra console gì, giải thích tại sao?
+26. console.log(3) Đoạn code sau in ra console gì, giải thích tại sao?
 
-HOCs trong ReactJS là gì, có mấy loại, khi nào cần dùng cho ví dụ?
+27. HOCs trong ReactJS là gì, có mấy loại, khi nào cần dùng cho ví dụ?
 
-Để quản lý danh sách users trong Redux, bạn quản lý như thế nào, Array để lưu nhiều users hay Object chứu nhiều user, tại sao, và khi nào thì nên dùng Array, Object
+28. Để quản lý danh sách users trong Redux, bạn quản lý như thế nào, Array để lưu nhiều users hay Object chứu nhiều user, tại sao, và khi nào thì nên dùng Array, Object
 
-SSR là gì, có những loại phổ biến nào, bạn dùng loại nào, lý do.
+29. SSR là gì, có những loại phổ biến nào, bạn dùng loại nào, lý do.
 
-Để xem kiểu dữ liệu của một giá trị trong Javascript bạn dùng hàm gì?
+30. Để xem kiểu dữ liệu của một giá trị trong Javascript bạn dùng hàm gì?
 
-Hãy so sánh Prop với $emit trong Vue Js
+31. Hãy so sánh Prop với $emit trong Vue Js
 
-BEM là gì? Theo bạn tại sao nên sử dụng BEM?
+32. BEM là gì? Theo bạn tại sao nên sử dụng BEM?
 
-Theo bạn trong Javascript có lập trình hướng đối tượng không?
+33. Theo bạn trong Javascript có lập trình hướng đối tượng không?
 
-Kể tên những thẻ ảnh hưởng đến SEO trong HTML
+34. Kể tên những thẻ ảnh hưởng đến SEO trong HTML
 
-DOM là gì, kể tên một vài DOM event mà bạn viết
+35. DOM là gì, kể tên một vài DOM event mà bạn viết
